@@ -1,0 +1,3 @@
+Tato aplikace neshromažďuje žádné informace na straně tvůrce ani je vědomě neposkytuje třetí straně. 
+Aplikace je poskytována zdarma, bezúplatně a využívá aktuální data MZČR přes šifrovaný přenos směrem k uživateli. Tedy nic neposílá směrem od uživatele.
+Tvůrce Jakub Pustina. Pro dotazy: pustina89@gmail.com
